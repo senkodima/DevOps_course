@@ -1,0 +1,35 @@
+* commit 0f062d9fab98cb3e549cef3c31355df76b6a7304
+| Author: Dmitry Senko <senkodima22@gmail.com>
+| Date:   Tue Jul 21 03:46:00 2020 +0300
+| 
+|     First commit to the hotfix/we_gonna_die
+|   
+| * commit 15c584efa3bf0a9fff7ec2128832f86b3ad946be
+| | Author: Dmitry Senko <senkodima22@gmail.com>
+| | Date:   Tue Jul 21 03:44:08 2020 +0300
+| | 
+| |     First commit to the features/do_one
+| | 
+| * commit d9422c13a339519bc600c171eabcb135b3abf140
+| | Author: Dmitry Senko <senkodima22@gmail.com>
+| | Date:   Tue Jul 21 03:41:22 2020 +0300
+| | 
+| |     Second commit to the dev
+| | 
+| * commit d3a03a5e24b5a0a044a297daf74b69eb868b8e02
+|/  Author: Dmitry Senko <senkodima22@gmail.com>
+|   Date:   Tue Jul 21 03:40:37 2020 +0300
+|   
+|       First commit to the dev
+| 
+* commit 02d921b03c1e903ab8cdab0e114d434bba39c691
+| Author: Dmitry Senko <senkodima22@gmail.com>
+| Date:   Tue Jul 21 03:37:57 2020 +0300
+| 
+|     Second commit to the master
+| 
+* commit e2e72b9ec3a5d6abacaeb6b1b78756068c93b997
+  Author: Dmitry Senko <senkodima22@gmail.com>
+  Date:   Tue Jul 21 03:37:16 2020 +0300
+  
+      First commit to the master
